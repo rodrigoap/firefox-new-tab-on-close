@@ -1,0 +1,1 @@
+{"license": "", "description": "Open an about:newtab on tab close if there is no other about:newtab tab.", "contributors": [], "author": "zurdo1119", "url": "", "name": "newtabonclose", "dependencies": ["api-utils", "addon-kit"], "version": "1.0.0.rev11", "lib": "lib", "fullName": "newTabOnClose", "main": "main", "id": "jid0-dxqcLD0mD3YN7qw1gCBXBZ77ZGs", "icon": "data/icon.png"}
